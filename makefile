@@ -1,6 +1,6 @@
 # Определить компилятор C++ и флаги
 CXX = g++
-CXXFLAGS = -std=c++11 -Wall -Wextra -pthread
+CXXFLAGS = -std=c++14 -Wall -Wextra -pthread
 
 # Определить библиотеку Google Test и флаги
 GTEST_DIR = ./googletest
